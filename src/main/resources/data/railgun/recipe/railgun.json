@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["IIR", "DEI", "  I"],
+  "key": {
+    "I": {"item": "minecraft:iron_ingot"},
+    "R": {"item": "minecraft:redstone_block"},
+    "D": {"item": "minecraft:diamond"},
+    "E": {"item": "minecraft:ender_eye"}
+  },
+  "result": {"id": "railgun:railgun", "count": 1}
+}

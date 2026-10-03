@@ -1,0 +1,26 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "TBT",
+  "LDL",
+  " L "
+ ],
+ "key": {
+  "T": {
+   "item": "minecraft:soul_torch"
+  },
+  "B": {
+   "item": "minecraft:blaze_rod"
+  },
+  "L": {
+   "item": "minecraft:leather"
+  },
+  "D": {
+   "item": "minecraft:diamond"
+  }
+ },
+ "result": {
+  "id": "railgun:flame_glove",
+  "count": 1
+ }
+}

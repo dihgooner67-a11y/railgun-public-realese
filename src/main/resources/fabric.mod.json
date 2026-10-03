@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "railgun",
+  "version": "${version}",
+  "name": "Rail Gun",
+  "description": "A charge-up rail gun with beam FX, screen shake and anime-style impact frames.",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.example.railgun.RailgunMod"],
+    "client": ["com.example.railgun.client.RailgunClient"]
+  },
+  "depends": { "fabricloader": ">=0.16.0", "minecraft": "~1.21.1", "java": ">=21", "fabric-api": "*" }
+}
